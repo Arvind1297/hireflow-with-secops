@@ -19,4 +19,3 @@ jobs:
           echo "Repository: ${{ github.repository}}"
           echo "Branch: ${{ github.ref_name }}"
           echo "Commit SHA: ${{ github.sha }}""
-
